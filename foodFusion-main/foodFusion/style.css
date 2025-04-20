@@ -1,15 +1,14 @@
+a {
+  color: aqua;
+  text-decoration: none;
+}
 
-    a {
-      color: aqua;
-      text-decoration: none;
-    }
+a:hover {
+  color: rgb(14, 55, 143);
+  font-size: 18px;
+}
 
-    a:hover {
-      color: rgb(14, 55, 143);
-      font-size: 18px;
-    }
-    body{
-        color: white;
-background-color: rgb(29, 25, 25);
-    }
-
+body {
+  color: white;
+  background-color: rgb(29, 25, 25);
+}
